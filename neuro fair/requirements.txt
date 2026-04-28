@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+fairlearn
+openpyxl
+python-docx
+google-generativeai
+PyPDF2
