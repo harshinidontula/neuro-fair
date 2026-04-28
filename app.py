@@ -459,3 +459,9 @@ Now analyze the following text:
                         st.expander("Show raw output").write(output_text)
                 except Exception as e:
                     st.error(f"An error occurred: {str(e)}")
+                    from flask import Flask
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    return "Hello World"
