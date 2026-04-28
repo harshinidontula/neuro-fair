@@ -1,5 +1,3 @@
-# neuro-fair
-"Neuro Fair is an interactive web platform for detecting, evaluating, and mitigating algorithmic bias. It analyzes structured tabular datasets using machine learning and unstructured text documents using Google's Gemini AI."
 # FairAI – Bias Detection and Correction Platform
 
 Welcome to the ultimate guide for your Hackathon Project, **FairAI**! This documentation covers everything you need: from concepts to exact setup steps, the technical architecture, and crucial tips for a winning pitch.
