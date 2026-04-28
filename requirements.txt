@@ -9,4 +9,3 @@ openpyxl
 python-docx
 google-generativeai
 PyPDF2
-python-3.10.12
