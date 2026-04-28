@@ -130,3 +130,8 @@ To deploy this project to the public internet during the hackathon:
 - **Highlight the "Explainability"**: Judges love interpretable ML. Show them the Feature Importance chart to prove "the model isn't a black box, it tells us exactly what logic it uses to make legal decisions."
 - **Mention Scalability**: State that while this prototype drops sensitive attributes, future versions could use advanced Fairlearn techniques like Demographic Parity Reweighting or Grid Search Reduction. 
 - **Keep the theme clean**: Streamlit is powerful—let the simple UI do the talking. Speak slowly and let the graphics validate your claims.
+-
+-  flask
+gunicorn
+pandas
+numpy
